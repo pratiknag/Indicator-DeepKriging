@@ -1,2 +1,2 @@
 # Indicator-DeepKriging
-DeepKriging with indicator variables 
+These are some initial code blocks for DeepKriging for indicator variables. 
